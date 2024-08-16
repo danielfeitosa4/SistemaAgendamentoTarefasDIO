@@ -1,0 +1,6 @@
+@SistemaAgendamentoTarefasDIO_HostAddress = http://localhost:5210
+
+GET {{SistemaAgendamentoTarefasDIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
